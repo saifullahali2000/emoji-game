@@ -1,0 +1,16 @@
+/* Write your code here. */
+.emoji {
+  background-color: #ffffff33;
+  width: 150px;
+  height: 150px;
+  margin: 25px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-emoji{
+  background-color: transparent;
+  border: none;
+}

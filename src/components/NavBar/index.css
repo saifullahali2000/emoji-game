@@ -1,0 +1,17 @@
+/* Write your code here. */
+.nav-bg {
+  background-color: #ffffff33;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.nav-items {
+  display: flex;
+  flex-direction: row;
+}
+
+.text {
+  margin-left: 30px;
+}
